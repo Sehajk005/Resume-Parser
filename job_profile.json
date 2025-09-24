@@ -1,0 +1,128 @@
+{
+  "Intern": {
+    "Data Analyst": {
+      "title": "Data Analyst Intern",
+      "required_skills": ["Excel", "SQL", "Data Visualization", "Statistics", "Python"],
+      "preferred_skills": ["Tableau", "Power BI", "Pandas", "NumPy", "Google Analytics"],
+      "keywords": ["data analysis", "reporting", "dashboards", "metrics", "insights", "data cleaning", "spreadsheets", "data mining", "business intelligence", "analytics"],
+      "job_specific_keywords": ["data entry", "data collection", "basic reporting", "chart creation", "pivot tables", "data validation", "data processing", "data quality"],
+      "edu_keywords": ["statistics", "mathematics", "computer science", "business", "economics"],
+      "relevant_certs": ["Google Data Analytics Professional Certificate", "Microsoft Power BI Data Analyst Associate"],
+      "min_experience": 0
+    },
+    "Software Development": {
+      "title": "Software Development Intern",
+      "required_skills": ["Python", "Java", "JavaScript", "Git", "Data Structures", "Algorithms"],
+      "preferred_skills": ["React", "Node.js", "SQL", "Docker", "RESTful APIs"],
+      "keywords": ["coding", "programming", "software development", "debugging", "version control", "web development", "application development", "software engineering"],
+      "job_specific_keywords": ["unit testing", "bug fixes", "feature development", "code review", "documentation", "agile", "scrum"],
+      "edu_keywords": ["computer science", "software engineering", "information technology"],
+      "relevant_certs": [],
+      "min_experience": 0
+    },
+    "Frontend Development": {
+      "title": "Frontend Development Intern",
+      "required_skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "Git"],
+      "preferred_skills": ["React", "Vue.js", "TypeScript", "Vite", "Tailwind CSS"],
+      "keywords": ["web development", "user interface", "frontend", "UI development", "web applications", "client-side", "interactive design", "user experience"],
+      "job_specific_keywords": ["UI components", "web pages", "browser testing", "mobile responsive", "CSS frameworks", "JavaScript frameworks", "web accessibility"],
+      "edu_keywords": ["computer science", "web design", "information technology"],
+      "relevant_certs": [],
+      "min_experience": 0
+    },
+    "AI/ML": {
+      "title": "AI/ML Intern",
+      "required_skills": ["Python", "Machine Learning", "Statistics", "Pandas", "NumPy"],
+      "preferred_skills": ["TensorFlow", "PyTorch", "Scikit-learn", "Jupyter", "SQL"],
+      "keywords": ["artificial intelligence", "machine learning", "data science", "deep learning", "neural networks", "NLP", "computer vision", "predictive modeling"],
+      "job_specific_keywords": ["model training", "data preprocessing", "algorithm implementation", "feature selection", "hyperparameter tuning", "model validation"],
+      "edu_keywords": ["computer science", "data science", "statistics", "mathematics"],
+      "relevant_certs": ["DeepLearning.AI", "Kaggle"],
+      "min_experience": 0
+    },
+    "Cloud Computing": {
+      "title": "Cloud Computing Intern",
+      "required_skills": ["AWS", "Azure", "GCP", "Linux", "Networking"],
+      "preferred_skills": ["Docker", "Kubernetes", "Terraform", "Python", "Bash"],
+      "keywords": ["cloud computing", "cloud infrastructure", "IaaS", "PaaS", "SaaS", "virtualization", "containerization", "cloud migration", "scalability", "cloud security"],
+      "job_specific_keywords": ["cloud setup", "cloud monitoring", "infrastructure provisioning", "cloud storage", "cloud networking", "backup strategies", "cost optimization"],
+      "edu_keywords": ["computer science", "information technology", "cloud computing"],
+      "relevant_certs": ["AWS Certified Cloud Practitioner", "Microsoft Certified: Azure Fundamentals"],
+      "min_experience": 0
+    }
+  },
+  "Fresher": {
+    "Software Developer": {
+      "title": "Software Developer",
+      "required_skills": ["Python", "Java", "JavaScript", "Git", "SQL", "RESTful APIs"],
+      "preferred_skills": ["React", "Node.js", "Docker", "Kubernetes", "AWS", "CI/CD"],
+      "keywords": ["software development", "programming", "application development", "software engineering", "web development", "backend development", "full-stack development"],
+      "job_specific_keywords": ["code development", "software design", "debugging", "performance optimization", "version control", "continuous integration", "deployment automation", "code review"],
+      "edu_keywords": ["computer science", "software engineering"],
+      "relevant_certs": [],
+      "min_experience": 0
+    },
+    "Data Analyst": {
+      "title": "Data Analyst",
+      "required_skills": ["SQL", "Excel", "Python", "Data Visualization", "Tableau", "Power BI"],
+      "preferred_skills": ["Statistics", "Machine Learning", "ETL", "AWS", "Big Data"],
+      "keywords": ["data analysis", "business intelligence", "reporting", "analytics", "data insights", "statistical analysis", "data mining", "predictive analytics", "data modeling"],
+      "job_specific_keywords": ["dashboard creation", "trend analysis", "performance metrics", "data interpretation", "data cleaning", "data transformation", "A/B testing"],
+      "edu_keywords": ["statistics", "mathematics", "computer science", "business"],
+      "relevant_certs": ["Google Data Analytics Professional Certificate", "Tableau Desktop Specialist"],
+      "min_experience": 0
+    },
+    "AI/ML Engineer": {
+      "title": "AI/ML Engineer",
+      "required_skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow", "PyTorch", "Scikit-learn"],
+      "preferred_skills": ["MLOps", "Computer Vision", "NLP", "AWS", "GCP", "Docker"],
+      "keywords": ["AI engineering", "neural networks", "model development", "artificial intelligence", "model deployment", "feature engineering", "algorithm optimization"],
+      "job_specific_keywords": ["model optimization", "AI solutions", "ML pipeline", "algorithm development", "hyperparameter optimization", "model validation", "production ML systems"],
+      "edu_keywords": ["computer science", "data science", "AI"],
+      "relevant_certs": ["AWS Certified Machine Learning - Specialty", "TensorFlow Developer Certificate"],
+      "min_experience": 0
+    }
+  },
+  "Experienced": {
+    "Senior Software Developer": {
+      "title": "Senior Software Developer",
+      "required_skills": ["Python", "Java", "Go", "System Design", "Architecture", "Mentoring"],
+      "preferred_skills": ["Microservices", "Cloud Architecture", "Kubernetes", "Performance Optimization", "DevOps"],
+      "keywords": ["senior developer", "software architecture", "technical leadership", "code optimization", "full stack development", "software engineering", "agile"],
+      "job_specific_keywords": ["technical architecture", "system scalability", "code quality", "technical mentoring", "software design patterns", "database optimization", "performance tuning"],
+      "edu_keywords": ["computer science", "software engineering"],
+      "relevant_certs": ["AWS Certified Solutions Architect - Associate"],
+      "min_experience": 3
+    },
+    "Data Scientist": {
+      "title": "Data Scientist",
+      "required_skills": ["Machine Learning", "Statistical Analysis", "Python", "Deep Learning", "SQL", "A/B Testing"],
+      "preferred_skills": ["MLOps", "Big Data", "Spark", "AWS", "Causal Inference", "Research"],
+      "keywords": ["data science", "predictive modeling", "data mining", "analytics", "statistics", "algorithms", "modeling", "data visualization", "business intelligence"],
+      "job_specific_keywords": ["model deployment", "algorithm optimization", "data strategy", "ML pipeline", "predictive analytics", "feature engineering", "hypothesis testing"],
+      "edu_keywords": ["data science", "statistics", "computer science", "PhD"],
+      "relevant_certs": ["AWS Certified Data Analytics - Specialty"],
+      "min_experience": 2
+    },
+    "DevOps Engineer": {
+      "title": "DevOps Engineer",
+      "required_skills": ["CI/CD", "AWS", "Azure", "GCP", "Infrastructure as Code", "Terraform", "Docker", "Kubernetes"],
+      "preferred_skills": ["Ansible", "Python", "Bash", "Security", "Monitoring", "Prometheus", "Grafana"],
+      "keywords": ["DevOps", "cloud infrastructure", "automation", "deployment", "infrastructure management", "continuous integration", "continuous delivery", "containerization"],
+      "job_specific_keywords": ["infrastructure automation", "deployment pipeline", "cloud migration", "system reliability", "infrastructure scaling", "configuration management", "orchestration"],
+      "edu_keywords": ["computer science", "information technology"],
+      "relevant_certs": ["AWS Certified DevOps Engineer - Professional", "Certified Kubernetes Administrator (CKA)"],
+      "min_experience": 2
+    },
+    "Product Manager": {
+      "title": "Product Manager",
+      "required_skills": ["Product Strategy", "Roadmap Planning", "Stakeholder Management", "Market Analysis", "Agile"],
+      "preferred_skills": ["User Research", "Data Analysis", "SQL", "A/B Testing", "JIRA"],
+      "keywords": ["product management", "product development", "user experience", "product lifecycle", "scrum", "project management", "customer insights", "product marketing"],
+      "job_specific_keywords": ["product roadmap", "feature prioritization", "market research", "product launch", "user story writing", "product metrics", "competitive analysis"],
+      "edu_keywords": ["business", "computer science", "MBA"],
+      "relevant_certs": ["Certified Scrum Product Owner (CSPO)"],
+      "min_experience": 3
+    }
+  }
+}
