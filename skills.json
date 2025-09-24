@@ -1,0 +1,31 @@
+{
+  "programming_languages": [
+    "Python", "Java", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "Swift", "Kotlin", "Ruby", "PHP", "Scala"
+  ],
+  "web_development": {
+    "frontend": ["HTML", "CSS", "React", "Angular", "Vue.js", "Svelte", "jQuery", "Bootstrap", "Sass", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "Django", "Flask", "Ruby on Rails", "ASP.NET", "Spring Boot", "FastAPI"],
+    "apis": ["RESTful APIs", "GraphQL", "gRPC"]
+  },
+  "databases": {
+    "sql": ["SQL", "MySQL", "PostgreSQL", "Microsoft SQL Server", "Oracle"],
+    "nosql": ["MongoDB", "Redis", "Cassandra", "DynamoDB", "Firebase"]
+  },
+  "cloud_and_devops": {
+    "platforms": ["AWS", "Azure", "Google Cloud", "GCP", "Heroku", "DigitalOcean"],
+    "ci_cd": ["CI/CD", "Jenkins", "GitLab CI", "CircleCI", "Travis CI"],
+    "containers_orchestration": ["Docker", "Kubernetes", "OpenShift"],
+    "iac": ["Terraform", "Ansible", "Pulumi", "CloudFormation"]
+  },
+  "data_science_and_ml": {
+    "libraries": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Keras", "Matplotlib", "Seaborn"],
+    "concepts": ["Machine Learning", "Deep Learning", "NLP", "Natural Language Processing", "Computer Vision", "Generative AI", "Data Analysis", "Data Mining", "Data Science"],
+    "tools": ["Jupyter", "Streamlit", "R"]
+  },
+  "mobile_development": [
+    "iOS", "Android", "React Native", "Flutter", "SwiftUI"
+  ],
+  "general_tools_and_methodologies": [
+    "Git", "Agile", "Scrum", "JIRA", "Linux", "Bash"
+  ]
+}
